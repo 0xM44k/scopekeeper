@@ -1,0 +1,7 @@
+{
+  "engagement": "Demo lab (fictional)",
+  "authorized_by": "Lab owner, written approval ref DEMO-001 (fictional)",
+  "window": {"start": "2026-11-01T09:00:00Z", "end": "2026-11-05T17:00:00Z"},
+  "in_scope": {"domains": ["app.example.com", "*.test.example.com"], "cidrs": ["10.10.0.0/24"], "ips": []},
+  "out_of_scope": {"domains": ["payments.example.com"], "cidrs": [], "ips": ["10.10.0.1"]}
+}
